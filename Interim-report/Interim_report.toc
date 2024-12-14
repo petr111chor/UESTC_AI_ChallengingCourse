@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}前言}{2}{section.1}%
+\contentsline {section}{\numberline {2}题目概况}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}竞赛概况}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}竞赛内容}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}竞赛意义}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}数据规模}{3}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}数据集}{3}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}提交格式}{5}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.5}现有结果}{6}{subsection.2.5}%
+\contentsline {section}{\numberline {3}中期进展情况}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}当前排名与结果}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}解题模型设计}{7}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}模型介绍}{8}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}具体实现}{9}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}中期进展结果分析}{11}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}中期进展主要问题分析}{11}{subsection.3.4}%
+\contentsline {section}{\numberline {4}中期进展后拟改进措施}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}特征处理方式}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}训练集错误处理}{12}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}重新选择模型}{12}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}组合模型}{13}{subsection.4.4}%
+\contentsline {section}{\numberline {5}参考文献}{13}{section.5}%
+\contentsfinish 
