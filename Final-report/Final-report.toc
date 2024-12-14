@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}前言}{2}{section.1}%
+\contentsline {section}{\numberline {2}题目概况}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}竞赛概况}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}竞赛内容}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}竞赛意义}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}数据规模}{3}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}数据集}{3}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}提交格式}{4}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.5}现有结果}{6}{subsection.2.5}%
+\contentsline {section}{\numberline {3}项目结题完成情况}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}当前排名与结果}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}结题模型设计}{7}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}开题设计}{7}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}中期设计}{9}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}结题设计}{13}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}结题最终结果分析}{14}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}结题主要问题分析}{17}{subsection.3.4}%
+\contentsline {section}{\numberline {4}结题后拟改进措施}{18}{section.4}%
+\contentsline {subsection}{\numberline {4.1}增加新的特征提取模型}{18}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}优化集成学习过程}{19}{subsection.4.2}%
+\contentsline {section}{\numberline {5}参与项目体会}{19}{section.5}%
+\contentsline {section}{\numberline {6}意见与建议}{20}{section.6}%
+\contentsfinish 
